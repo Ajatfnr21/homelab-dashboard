@@ -1,0 +1,6 @@
+{"services": [
+  {"name": "Plex", "url": "http://localhost:32400", "type": "http"},
+  {"name": "Pi-hole", "url": "http://localhost/admin", "type": "http"},
+  {"name": "Home Assistant", "url": "http://localhost:8123", "type": "http"},
+  {"name": "Portainer", "url": "http://localhost:9000", "type": "http"}
+]}

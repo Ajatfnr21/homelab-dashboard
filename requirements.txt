@@ -1,0 +1,1 @@
+aiohttp>=3.8.0\nclick>=8.0.0\n
